@@ -6,7 +6,7 @@ This project analyzes an e-commerce sales dataset containing customer transactio
 
 The objective is to uncover business insights through exploratory data analysis, data cleaning, feature engineering, and visualization techniques.
 
-⸻
+
 
 # Dataset
 
@@ -20,7 +20,7 @@ The dataset contains:
 * Referral sources
 * Revenue metrics
 
-⸻
+
 
 # Technologies Used
 
@@ -30,7 +30,7 @@ The dataset contains:
 * Matplotlib
 * Seaborn
 
-⸻
+
 
 # Project Workflow
 
@@ -56,7 +56,7 @@ Phase 3: Business Analysis
 * Order status analysis
 * Monthly revenue trends
 
-⸻
+
 
 # Key Findings
 
@@ -66,7 +66,7 @@ Phase 3: Business Analysis
 * Payment methods influenced revenue patterns.
 * Revenue demonstrated seasonal variation across months.
 
-⸻
+
 
 # Future Improvements
 
@@ -75,9 +75,9 @@ Phase 3: Business Analysis
 * Customer lifetime value analysis
 * Interactive dashboards using Power BI or Tableau
 
-⸻
 
-Author
+
+# Author
 
 Megha Kalachira Ankush
 
