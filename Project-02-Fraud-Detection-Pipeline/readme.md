@@ -59,6 +59,22 @@ The dataset contains transaction-level information including customer orders, pr
 
 (Note: Dataset provided as part of DecodeLabs internship training.)
 
+## Results
+
+Models evaluated:
+
+- Logistic Regression
+- Random Forest
+
+Evaluation metrics:
+
+- Precision
+- Recall
+- F1-score
+- ROC-AUC
+
+Random Forest achieved the strongest performance on the engineered transaction risk classification task.
+
 ## Key Learning Outcomes
 
 - Handling imbalanced classification problems
